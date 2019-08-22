@@ -1,5 +1,5 @@
-#TO-COMPILE
+# TO-COMPILE
 npm run compile:sass
 
-#TO-VIEW-IN-BROWSER
+# TO-VIEW-IN-BROWSER
 live-server
