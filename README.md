@@ -5,7 +5,7 @@ npm run compile:sass
 live-server
 
 # USEFUL GIT COMMANDS
-GIT status
+GIT status<br />
 GIT add .
 GIT add "filename.js"
 GIT commit -m "comment"
