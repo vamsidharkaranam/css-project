@@ -6,7 +6,7 @@ live-server
 
 # USEFUL GIT COMMANDS
 GIT status<br />
-GIT add .
-GIT add "filename.js"
-GIT commit -m "comment"
-GIT Push -u origin master
+GIT add .<br />
+GIT add "filename.js"<br />
+GIT commit -m "comment"<br />
+GIT Push -u origin master<br />
