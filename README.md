@@ -13,7 +13,7 @@ GIT commit -m "comment"<br />
 # ADDING TO REMOTE
 //Create repository in github and copy https URL<br /><br />
 git remote add origin remote-repository-URL<br />
-GIT push -u origin master<br />
+git push -u origin master<br />
 
 # To config comitter email and username locally(per repository)
 $ git config user.name "John Doe"<br />
