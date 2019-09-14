@@ -11,7 +11,7 @@ GIT add "filename.js"<br />
 GIT commit -m "comment"<br />
 
 # ADDING TO REMOTE
-Create repository in github and copy https URL<br /><br />
+//Create repository in github and copy https URL<br /><br />
 git remote add origin remote-repository-URL<br />
 GIT push -u origin master<br />
 
