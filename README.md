@@ -16,9 +16,9 @@ git remote add origin remote-repository-URL<br />
 GIT push -u origin master<br />
 
 # To config comitter email and username locally(per repository)
-$ git config user.name "John Doe"
-$ git config user.email "john@doe.org"
+$ git config user.name "John Doe"<br />
+$ git config user.email "john@doe.org"<br />
 
 # To config comitter email and username globally
-$ git config --global user.name "John Doe"
-$ git config --global user.email "john@doe.org"
+$ git config --global user.name "John Doe"<br />
+$ git config --global user.email "john@doe.org"<br />
